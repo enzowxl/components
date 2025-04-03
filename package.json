@@ -1,0 +1,23 @@
+{
+  "name": "@enzowxl/components",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "tsx",
+    "react.js"
+  ],
+  "author": "enzowxl",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "typescript": "^5.8.2"
+  }
+}
